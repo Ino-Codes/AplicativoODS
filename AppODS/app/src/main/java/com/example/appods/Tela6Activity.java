@@ -6,14 +6,14 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-public class Tela8 extends AppCompatActivity {
+public class Tela6Activity extends AppCompatActivity {
 
     Button btnvoltar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_tela8);
+        setContentView(R.layout.activity_tela6);
 
         btnvoltar = findViewById(R.id.btnvoltar);
         btnvoltar.setOnClickListener(new View.OnClickListener() {

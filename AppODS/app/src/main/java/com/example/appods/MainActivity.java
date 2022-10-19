@@ -60,7 +60,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //instanciando a tela / activity - na tela arquivo java Ex: Tela2.class
-                Intent tela5 = new Intent( getApplicationContext(), Tela5.class);
+                Intent tela5 = new Intent( getApplicationContext(), Tela5Activity.class);
                 //inicia a intent = tela2 = Activity
                 startActivity(tela5);
             }
@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //instanciando a tela / activity - na tela arquivo java Ex: Tela2.class
-                Intent tela6 = new Intent( getApplicationContext(), Tela6.class);
+                Intent tela6 = new Intent( getApplicationContext(), Tela6Activity.class);
                 //inicia a intent = tela2 = Activity
                 startActivity(tela6);
             }
@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //instanciando a tela / activity - na tela arquivo java Ex: Tela2.class
-                Intent tela7 = new Intent( getApplicationContext(), Tela7.class);
+                Intent tela7 = new Intent( getApplicationContext(), Tela7Activity.class);
                 //inicia a intent = tela2 = Activity
                 startActivity(tela7);
             }
@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //instanciando a tela / activity - na tela arquivo java Ex: Tela2.class
-                Intent tela8 = new Intent( getApplicationContext(), Tela8.class);
+                Intent tela8 = new Intent( getApplicationContext(), Tela8Activity.class);
                 //inicia a intent = tela2 = Activity
                 startActivity(tela8);
             }
@@ -108,7 +108,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //instanciando a tela / activity - na tela arquivo java Ex: Tela2.class
-                Intent tela9 = new Intent( getApplicationContext(), Tela9.class);
+                Intent tela9 = new Intent( getApplicationContext(), Tela9Activity.class);
                 //inicia a intent = tela2 = Activity
                 startActivity(tela9);
             }
@@ -120,7 +120,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //instanciando a tela / activity - na tela arquivo java Ex: Tela2.class
-                Intent tela10 = new Intent( getApplicationContext(), Tela10.class);
+                Intent tela10 = new Intent( getApplicationContext(), Tela10Activity.class);
                 //inicia a intent = tela2 = Activity
                 startActivity(tela10);
             }
@@ -132,7 +132,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //instanciando a tela / activity - na tela arquivo java Ex: Tela2.class
-                Intent tela11 = new Intent( getApplicationContext(), Tela11.class);
+                Intent tela11 = new Intent( getApplicationContext(), Tela11Activity.class);
                 //inicia a intent = tela2 = Activity
                 startActivity(tela11);
             }
@@ -144,7 +144,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //instanciando a tela / activity - na tela arquivo java Ex: Tela2.class
-                Intent tela12 = new Intent( getApplicationContext(), Tela12.class);
+                Intent tela12 = new Intent( getApplicationContext(), Tela12Activity.class);
                 //inicia a intent = tela2 = Activity
                 startActivity(tela12);
             }
@@ -156,7 +156,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //instanciando a tela / activity - na tela arquivo java Ex: Tela2.class
-                Intent tela13 = new Intent( getApplicationContext(), Tela13.class);
+                Intent tela13 = new Intent( getApplicationContext(), Tela13Activity.class);
                 //inicia a intent = tela2 = Activity
                 startActivity(tela13);
             }
@@ -168,7 +168,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //instanciando a tela / activity - na tela arquivo java Ex: Tela2.class
-                Intent tela14 = new Intent( getApplicationContext(), Tela14.class);
+                Intent tela14 = new Intent( getApplicationContext(), Tela14Activity.class);
                 //inicia a intent = tela2 = Activity
                 startActivity(tela14);
             }
@@ -180,7 +180,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //instanciando a tela / activity - na tela arquivo java Ex: Tela2.class
-                Intent tela15 = new Intent( getApplicationContext(), Tela15.class);
+                Intent tela15 = new Intent( getApplicationContext(), Tela15Activity.class);
                 //inicia a intent = tela2 = Activity
                 startActivity(tela15);
             }
@@ -192,7 +192,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //instanciando a tela / activity - na tela arquivo java Ex: Tela2.class
-                Intent tela16 = new Intent( getApplicationContext(), Tela16.class);
+                Intent tela16 = new Intent( getApplicationContext(), Tela16Activity.class);
                 //inicia a intent = tela2 = Activity
                 startActivity(tela16);
             }
@@ -204,7 +204,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //instanciando a tela / activity - na tela arquivo java Ex: Tela2.class
-                Intent tela17 = new Intent( getApplicationContext(), Tela17.class);
+                Intent tela17 = new Intent( getApplicationContext(), Tela17Activity.class);
                 //inicia a intent = tela2 = Activity
                 startActivity(tela17);
             }
@@ -216,7 +216,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //instanciando a tela / activity - na tela arquivo java Ex: Tela2.class
-                Intent tela18 = new Intent( getApplicationContext(), Tela18.class);
+                Intent tela18 = new Intent( getApplicationContext(), Tela18Activity.class);
                 //inicia a intent = tela2 = Activity
                 startActivity(tela18);
             }
