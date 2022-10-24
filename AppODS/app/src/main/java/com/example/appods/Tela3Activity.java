@@ -2,10 +2,9 @@ package com.example.appods;
 import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
 import android.widget.Button;
 
-public class Tela3 extends AppCompatActivity {
+public class Tela3Activity extends AppCompatActivity {
 
     Button btnvoltar;
 
@@ -15,12 +14,9 @@ public class Tela3 extends AppCompatActivity {
         setContentView(R.layout.activity_tela3);
 
         btnvoltar = findViewById(R.id.btnvoltar);
-        btnvoltar.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent MainActivity = new Intent(getApplicationContext(), MainActivity.class);
-                startActivity(MainActivity);
-            }
+        btnvoltar.setOnClickListener(view -> {
+            Intent MainActivity = new Intent(getApplicationContext(), MainActivity.class);
+            startActivity(MainActivity);
         });
     }
 }

@@ -9,7 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="#80FF6600"
-        tools:context=".Tela2">
+        tools:context=".Tela2Activity">
 
         <Button
             android:id="@+id/btnvoltar"
@@ -19,7 +19,8 @@
             android:text="Voltar"
             android:textAllCaps="true"
             android:textStyle="bold"
-            tools:layout_editor_absoluteX="160dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
             tools:layout_editor_absoluteY="656dp" />
 
         <TextView

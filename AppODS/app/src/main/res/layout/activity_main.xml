@@ -285,7 +285,7 @@
         app:srcCompat="@drawable/ods16" />
 
     <Button
-        android:id="@+id/btntela3"
+        android:id="@+id/btntela"
         android:layout_width="65dp"
         android:layout_height="34dp"
         android:autoText="false"
@@ -385,7 +385,7 @@
         app:srcCompat="@drawable/ods14" />
 
     <Button
-        android:id="@+id/btntela2"
+        android:id="@+id/btntela3"
         android:layout_width="65dp"
         android:layout_height="34dp"
         android:autoText="false"
@@ -504,7 +504,7 @@
         tools:ignore="TouchTargetSizeCheck" />
 
     <Button
-        android:id="@+id/btntela"
+        android:id="@+id/btntela2"
         android:layout_width="65dp"
         android:layout_height="34dp"
         android:autoText="false"
