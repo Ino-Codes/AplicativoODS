@@ -170,7 +170,6 @@ public class MainActivity extends AppCompatActivity {
             startActivity(tela18);
         });
 
-
         btnsair = findViewById(R.id.btnsair);
         btnsair.setOnClickListener(view -> {
             finish();

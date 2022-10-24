@@ -14,6 +14,51 @@
         android:theme="@style/Theme.AppODS"
         tools:targetApi="31">
         <activity
+            android:name=".Tela18Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Tela17Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Tela16Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Tela15Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Tela14Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Tela13Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Tela12Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Tela11Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Tela10Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Tela9Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Tela8Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Tela7Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Tela6Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Tela5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Tela4Activity"
+            android:exported="false" />
+        <activity
             android:name=".Tela3Activity"
             android:exported="false" />
         <activity
